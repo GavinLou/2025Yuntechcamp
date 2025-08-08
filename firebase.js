@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyC4GYt9AxpccMSBg4wX8UGZRWsSd4-64uU",
-    authDomain: "rpg-demo-96d9e.firebaseapp.com",
-    projectId: "rpg-demo-96d9e",
-    storageBucket: "rpg-demo-96d9e.firebasestorage.app",
-    messagingSenderId: "904005280478",
-    appId: "1:904005280478:web:f21037d47a27270e95184f",
-    measurementId: "G-4VG7542M20"
+    apiKey: "AIzaSyBK24vHZQcdYJFQDK_8F2sJwmHDwZAHj8k",
+    authDomain: "camp-7ef4e.firebaseapp.com",
+    projectId: "camp-7ef4e",
+    storageBucket: "camp-7ef4e.firebasestorage.app",
+    messagingSenderId: "609085575107",
+    appId: "1:609085575107:web:a671aaacd96235b2a3f776",
+    measurementId: "G-9S00LTW79G"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
